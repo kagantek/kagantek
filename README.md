@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kagantek
 - 👀 I’m interested in ... AI and Web Development
-- 🌱 I’m currently learning ... HTML & CSS & Python & C
+- 🌱 I’m currently learning ... HTML & CSS & Python & C/C++ & JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
